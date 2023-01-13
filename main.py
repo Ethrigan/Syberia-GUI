@@ -40,7 +40,8 @@ def doencas_class(event):
     for widget in frame2.winfo_children():
         widget.destroy()
 
-    ldoencas = Label(frame2, text="doencas")
+    ldoencas = ttk.Combobox(frame2, text="doencas")
+    ldoencas['values'] = [0,1,2,3,4,5,6,7]
     ldoencas.pack()
 
 

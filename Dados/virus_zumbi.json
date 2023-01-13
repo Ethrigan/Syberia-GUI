@@ -1,0 +1,12 @@
+[
+    {
+        "Substance": "Zivirol ",
+        "Container": "Ampoule ",
+        "Overdose Increment": 1.8
+    },
+    {
+        "Substance": "Zivirol ",
+        "Container": "Injector ",
+        "Overdose Increment": 1.8
+    }
+]

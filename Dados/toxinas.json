@@ -1,0 +1,32 @@
+[
+    {
+        "Substance": "Alcohol ",
+        "Container": "Ampoule ",
+        "Overdose Increment": 4,
+        "Hemologic Shock": "Yes"
+    },
+    {
+        "Substance": "Arsenic ",
+        "Container": "Ampoule ",
+        "Overdose Increment": 4,
+        "Hemologic Shock": "Yes"
+    },
+    {
+        "Substance": "Dichlorvos ",
+        "Container": "Ampoule ",
+        "Overdose Increment": 4,
+        "Hemologic Shock": "Yes"
+    },
+    {
+        "Substance": "Cypermetrin ",
+        "Container": "Ampoule ",
+        "Overdose Increment": 4,
+        "Hemologic Shock": "Yes"
+    },
+    {
+        "Substance": "Diazinon ",
+        "Container": "Ampoule ",
+        "Overdose Increment": 4,
+        "Hemologic Shock": "Yes"
+    }
+]

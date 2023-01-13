@@ -1,0 +1,56 @@
+[
+    {
+        "Substance": "Vikasol ",
+        "Container": "Tablet ",
+        "Effect Time (s)": 180,
+        "Overdose Increment": 0.1
+    },
+    {
+        "Substance": "Dycinon ",
+        "Container": "Tablet ",
+        "Effect Time (s)": 240,
+        "Overdose Increment": 0.1
+    },
+    {
+        "Substance": "Sorbifer Durulis ",
+        "Container": "Tablet ",
+        "Effect Time (s)": 300,
+        "Overdose Increment": 0.15
+    },
+    {
+        "Substance": "Nonacog Alpha ",
+        "Container": "Ampoule ",
+        "Effect Time (s)": 600,
+        "Overdose Increment": 0.3
+    },
+    {
+        "Substance": "Aminokaprol Sulfat ",
+        "Container": "Ampoule ",
+        "Effect Time (s)": 600,
+        "Overdose Increment": 0.3
+    },
+    {
+        "Substance": "Vikasol ",
+        "Container": "Ampoule ",
+        "Effect Time (s)": 800,
+        "Overdose Increment": 0.4
+    },
+    {
+        "Substance": "Erytropoenin ",
+        "Container": "Ampoule ",
+        "Effect Time (s)": 900,
+        "Overdose Increment": 0.5
+    },
+    {
+        "Substance": "Etamzilat ",
+        "Container": "Ampoule ",
+        "Effect Time (s)": 1400,
+        "Overdose Increment": 0.5
+    },
+    {
+        "Substance": "Erytropoenin ",
+        "Container": "Injector ",
+        "Effect Time (s)": 900,
+        "Overdose Increment": 0.4
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "Substance": "Kapsikam ",
+        "Heal Time (s)": 300,
+        "Overdose Increment": 0.01
+    },
+    {
+        "Substance": "Viprosal ",
+        "Heal Time (s)": 400,
+        "Overdose Increment": 0.01
+    },
+    {
+        "Substance": "Finalgon ",
+        "Heal Time (s)": 600,
+        "Overdose Increment": 0.01
+    }
+]

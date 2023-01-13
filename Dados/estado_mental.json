@@ -1,0 +1,58 @@
+[
+    {
+        "Substance": "Actaparoxetine ",
+        "Level": 1,
+        "Container": "Tablet ",
+        "Heal Time (s)": 40,
+        "Overdose Increment": 0.2
+    },
+    {
+        "Substance": "Agteminol ",
+        "Level": 1,
+        "Container": "Tablet ",
+        "Heal Time (s)": 60,
+        "Overdose Increment": 0.2
+    },
+    {
+        "Substance": "Adepress ",
+        "Level": 1,
+        "Container": "Tablet ",
+        "Heal Time (s)": 70,
+        "Overdose Increment": 0.2
+    },
+    {
+        "Substance": "Venlafaxine ",
+        "Level": 1,
+        "Container": "Tablet ",
+        "Heal Time (s)": 90,
+        "Overdose Increment": 0.2
+    },
+    {
+        "Substance": "Amitriptyline ",
+        "Level": 1,
+        "Container": "Tablet ",
+        "Heal Time (s)": 100,
+        "Overdose Increment": 0.2
+    },
+    {
+        "Substance": "Metralindol ",
+        "Level": 2,
+        "Container": "Ampoule ",
+        "Heal Time (s)": 300,
+        "Overdose Increment": 0.4
+    },
+    {
+        "Substance": "Actaparoxetine ",
+        "Level": 2,
+        "Container": "Ampoule ",
+        "Heal Time (s)": 400,
+        "Overdose Increment": 0.4
+    },
+    {
+        "Substance": "Amitriptyline ",
+        "Level": 2,
+        "Container": "Ampoule ",
+        "Heal Time (s)": 600,
+        "Overdose Increment": 0.5
+    }
+]

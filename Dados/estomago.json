@@ -1,0 +1,114 @@
+[
+    {
+        "Substance": "Charcoal ",
+        "Level": 1,
+        "Container": "Tablet ",
+        "Heal Time (s)": 60,
+        "Overdose Increment": 0
+    },
+    {
+        "Substance": "MezimForte ",
+        "Level": 1,
+        "Container": "Tablet ",
+        "Heal Time (s)": 120,
+        "Overdose Increment": 0.05
+    },
+    {
+        "Substance": "Zerukal ",
+        "Level": 1,
+        "Container": "Tablet ",
+        "Heal Time (s)": 180,
+        "Overdose Increment": 0.05
+    },
+    {
+        "Substance": "Enterofuril ",
+        "Level": 1,
+        "Container": "Tablet ",
+        "Heal Time (s)": 250,
+        "Overdose Increment": 0.1
+    },
+    {
+        "Substance": "Ftalazo ",
+        "Level": 1,
+        "Container": "Tablet ",
+        "Heal Time (s)": 250,
+        "Overdose Increment": 0.1
+    },
+    {
+        "Substance": "Salofalk ",
+        "Level": 1,
+        "Container": "Tablet ",
+        "Heal Time (s)": 250,
+        "Overdose Increment": 0.1
+    },
+    {
+        "Substance": "Nifuroksazid ",
+        "Level": 1,
+        "Container": "Tablet ",
+        "Heal Time (s)": 300,
+        "Overdose Increment": 0.05
+    },
+    {
+        "Substance": "Karbopekt ",
+        "Level": 1,
+        "Container": "Tablet ",
+        "Heal Time (s)": 300,
+        "Overdose Increment": 0.05
+    },
+    {
+        "Substance": "Polisorb ",
+        "Level": 1,
+        "Container": "Tablet ",
+        "Heal Time (s)": 300,
+        "Overdose Increment": 0.1
+    },
+    {
+        "Substance": "Mesalazin ",
+        "Level": 1,
+        "Container": "Tablet ",
+        "Heal Time (s)": 380,
+        "Overdose Increment": 0.1
+    },
+    {
+        "Substance": "Ersefuril ",
+        "Level": 1,
+        "Container": "Tablet ",
+        "Heal Time (s)": 400,
+        "Overdose Increment": 0.1
+    },
+    {
+        "Substance": "Metoclopramid ",
+        "Level": 2,
+        "Container": "Ampoule ",
+        "Heal Time (s)": 600,
+        "Overdose Increment": 0.25
+    },
+    {
+        "Substance": "Zerukal ",
+        "Level": 2,
+        "Container": "Ampoule ",
+        "Heal Time (s)": 800,
+        "Overdose Increment": 0.25
+    },
+    {
+        "Substance": "Ketorol ",
+        "Level": 2,
+        "Container": "Ampoule ",
+        "Heal Time (s)": 1000,
+        "Overdose Increment": 0.25
+    },
+    {
+        "Substance": "Heptral ",
+        "Level": 2,
+        "Container": "Ampoule ",
+        "Heal Time (s)": 1200,
+        "Overdose Increment": 0.3
+    },
+    {
+        "Substance": "Ketorol ",
+        "Level": 2,
+        "Container": "Injector ",
+        "Heal Time (s)": 1800,
+        "Overdose Increment": 0.4
+    }
+]

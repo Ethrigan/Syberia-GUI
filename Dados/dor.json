@@ -1,0 +1,163 @@
+[
+    {
+        "Substance": "Noopept ",
+        "Level": 1,
+        "Container": "Tablet ",
+        "Heal Time (s)": 60,
+        "Overdose Increment": 0.1
+    },
+    {
+        "Substance": "Analgin ",
+        "Level": 1,
+        "Container": "Tablet ",
+        "Heal Time (s)": 300,
+        "Overdose Increment": 0.1
+    },
+    {
+        "Substance": "Cytramon ",
+        "Level": 1,
+        "Container": "Tablet ",
+        "Heal Time (s)": 400,
+        "Overdose Increment": 0.1
+    },
+    {
+        "Substance": "Ibuprofen ",
+        "Level": 1,
+        "Container": "Tablet ",
+        "Heal Time (s)": 800,
+        "Overdose Increment": 0.2
+    },
+    {
+        "Substance": "Nurofen ",
+        "Level": 1,
+        "Container": "Tablet ",
+        "Heal Time (s)": 800,
+        "Overdose Increment": 0.2
+    },
+    {
+        "Substance": "Movalis ",
+        "Level": 1,
+        "Container": "Tablet ",
+        "Heal Time (s)": 800,
+        "Overdose Increment": 0.1
+    },
+    {
+        "Substance": "Pentalgin ",
+        "Level": 1,
+        "Container": "Tablet ",
+        "Heal Time (s)": 800,
+        "Overdose Increment": 0.1
+    },
+    {
+        "Substance": "Paracetamol ",
+        "Level": 1,
+        "Container": "Tablet ",
+        "Heal Time (s)": 1000,
+        "Overdose Increment": 0.15
+    },
+    {
+        "Substance": "Aertal ",
+        "Level": 1,
+        "Container": "Tablet ",
+        "Heal Time (s)": 1300,
+        "Overdose Increment": 0.1
+    },
+    {
+        "Substance": "Nimesil ",
+        "Level": 1,
+        "Container": "Tablet ",
+        "Heal Time (s)": 1300,
+        "Overdose Increment": 0.1
+    },
+    {
+        "Substance": "Naiz ",
+        "Level": 1,
+        "Container": "Tablet ",
+        "Heal Time (s)": 1400,
+        "Overdose Increment": 0.1
+    },
+    {
+        "Substance": "Ketorol ",
+        "Level": 1,
+        "Container": "Ampoule ",
+        "Heal Time (s)": 1200,
+        "Overdose Increment": 0.25
+    },
+    {
+        "Substance": "Ketorol ",
+        "Level": 1,
+        "Container": "Injector ",
+        "Heal Time (s)": 1800,
+        "Overdose Increment": 0.4
+    },
+    {
+        "Substance": "Propanidid ",
+        "Level": 2,
+        "Container": "Ampoule ",
+        "Heal Time (s)": 400,
+        "Overdose Increment": 0.25
+    },
+    {
+        "Substance": "Irineks ",
+        "Level": 2,
+        "Container": "Ampoule ",
+        "Heal Time (s)": 600,
+        "Overdose Increment": 0.25
+    },
+    {
+        "Substance": "Gexobarbital ",
+        "Level": 2,
+        "Container": "Ampoule ",
+        "Heal Time (s)": 800,
+        "Overdose Increment": 0.25
+    },
+    {
+        "Substance": "Novocain ",
+        "Level": 2,
+        "Container": "Ampoule ",
+        "Heal Time (s)": 1500,
+        "Overdose Increment": 0.25
+    },
+    {
+        "Substance": "Nimesulid ",
+        "Level": 2,
+        "Container": "Ampoule ",
+        "Heal Time (s)": 1600,
+        "Overdose Increment": 0.25
+    },
+    {
+        "Substance": "Ketoprofen ",
+        "Level": 2,
+        "Container": "Ampoule ",
+        "Heal Time (s)": 1800,
+        "Overdose Increment": 0.25
+    },
+    {
+        "Substance": "Ketamin ",
+        "Level": 3,
+        "Container": "Ampoule ",
+        "Heal Time (s)": 300,
+        "Overdose Increment": 0.4
+    },
+    {
+        "Substance": "Tiopental ",
+        "Level": 3,
+        "Container": "Ampoule ",
+        "Heal Time (s)": 600,
+        "Overdose Increment": 0.4
+    },
+    {
+        "Substance": "Propofol ",
+        "Level": 3,
+        "Container": "Ampoule ",
+        "Heal Time (s)": 800,
+        "Overdose Increment": 0.4
+    },
+    {
+        "Substance": "Sodium Oxybutirate ",
+        "Level": 3,
+        "Container": "Ampoule ",
+        "Heal Time (s)": 1200,
+        "Overdose Increment": 0.4
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "Substance": "Noopept ",
+        "Container": "Tablet ",
+        "Overdose Increment": 0.1
+    },
+    {
+        "Substance": "Actovegin ",
+        "Container": "Ampoule ",
+        "Overdose Increment": 0.4
+    },
+    {
+        "Substance": "Meksidol ",
+        "Container": "Ampoule ",
+        "Overdose Increment": 0.4
+    },
+    {
+        "Substance": "Neiroks ",
+        "Container": "Ampoule ",
+        "Overdose Increment": 0.5
+    },
+    {
+        "Substance": "Neiroks ",
+        "Container": "Injector ",
+        "Overdose Increment": 0.5
+    }
+]

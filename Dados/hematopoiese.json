@@ -1,0 +1,50 @@
+[
+    {
+        "Substance": "Irovit ",
+        "Container": "Tablet ",
+        "Effect Time (s)": 120,
+        "Overdose Increment": 0.1
+    },
+    {
+        "Substance": "Tardiferon ",
+        "Container": "Tablet ",
+        "Effect Time (s)": 180,
+        "Overdose Increment": 0.1
+    },
+    {
+        "Substance": "Heferol ",
+        "Container": "Tablet ",
+        "Effect Time (s)": 220,
+        "Overdose Increment": 0.1
+    },
+    {
+        "Substance": "Sorbifer Durulis ",
+        "Container": "Tablet ",
+        "Effect Time (s)": 300,
+        "Overdose Increment": 0.15
+    },
+    {
+        "Substance": "Perftoran ",
+        "Container": "Ampoule ",
+        "Effect Time (s)": 300,
+        "Overdose Increment": 0.3
+    },
+    {
+        "Substance": "Maltofer ",
+        "Container": "Ampoule ",
+        "Effect Time (s)": 600,
+        "Overdose Increment": 0.3
+    },
+    {
+        "Substance": "Erytropoenin ",
+        "Container": "Ampoule ",
+        "Effect Time (s)": 900,
+        "Overdose Increment": 0.5
+    },
+    {
+        "Substance": "Erytropoenin ",
+        "Container": "Injector ",
+        "Effect Time (s)": 900,
+        "Overdose Increment": 0.4
+    }
+]

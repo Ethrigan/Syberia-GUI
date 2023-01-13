@@ -1,0 +1,32 @@
+[
+    {
+        "Substance": "Flemoclav ",
+        "Container": "Ampoule ",
+        "Overdose Increment": 0.45
+    },
+    {
+        "Substance": "Ocsacylin ",
+        "Container": "Ampoule ",
+        "Overdose Increment": 0.5
+    },
+    {
+        "Substance": "Imipenem ",
+        "Container": "Ampoule ",
+        "Overdose Increment": 0.55
+    },
+    {
+        "Substance": "Topoizomeraza ",
+        "Container": "Injector ",
+        "Overdose Increment": 0.4
+    },
+    {
+        "Substance": "Amoksivan ",
+        "Container": "Ampoule ",
+        "Overdose Increment": 0.6
+    },
+    {
+        "Substance": "Amoksivan ",
+        "Container": "Injector ",
+        "Overdose Increment": 0.6
+    }
+]
