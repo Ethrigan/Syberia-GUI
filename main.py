@@ -5,7 +5,6 @@ from tkinter import ttk
 from tkinter import *
 from PIL import ImageTk, Image
 
-
 # root window
 root = Tk()
 root.title('Syberia - Ajuda')
@@ -14,6 +13,7 @@ root.geometry('800x600')
 nome = ""
 global mystringvar
 mystringvar = ""
+
 
 # funcoes
 def medicamentos_class(event, *args):
@@ -26,10 +26,7 @@ def medicamentos_class(event, *args):
     print(indice)
     print(enfermidades)
 
-    caminho = "imagens/" + enfermidades + ".png"
-    root.photo = PhotoImage(file=caminho)
-    Label(frame2, image=root.photo).grid(stick="W", row=0, column=0)
-    Label(frame2, text=enfermidades.upper(), font='Helvetica 18 bold').grid(stick="E", row=0, column=1)
+    Label(frame2, text=enfermidades.upper(), font='Helvetica 18 bold').grid(stick="E", row=0, column=0)
     fileobject = open('dados/' + enfermidades + '.json', 'r')
     json_data = fileobject.read()
     data = json.loads(json_data)
@@ -68,24 +65,20 @@ frame1['padding'] = (10, 10, 0, 10)
 frame2 = ttk.Frame(root, borderwidth=0, width=0, height=0, relief=SOLID)
 frame2['padding'] = (15, 15, 15, 15)
 
-# Create Combobox
-n = tk.StringVar()
-country = ttk.Combobox(frame1, width=20, textvariable=n)
-
 json_files = list((os.path.splitext(f)[0] for f in os.listdir("dados") if f.endswith('.json')))
-json_text = list(os.path.splitext(f)[0].replace('_',' ').capitalize() for f in os.listdir("dados") if f.endswith('.json'))
+json_text = list(
+    os.path.splitext(f)[0].replace('_', ' ').capitalize() for f in os.listdir("dados") if f.endswith('.json'))
 print(json_files)
 print(json_text)
 
-# Adding combobox drop down list
-country['values'] = (json_text)
+i=0;
+for enfermidade in json_files:
+    caminho = "imagens/" + enfermidade + ".png"
+    print (str(i) + " " + caminho)
+    root.photo = PhotoImage(file=caminho)
+    Button(frame1, image=root.photo).grid(row=0, column=i)
+    i += 1
 
-print(country.current())
-country.bind("<<ComboboxSelected>>", medicamentos_class )
-
-
-
-lab_a = country.pack(side=LEFT)
 
 # horizontal separator
 separador_a = ttk.Separator(
