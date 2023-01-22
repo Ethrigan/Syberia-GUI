@@ -16,7 +16,7 @@ global mystringvar
 mystringvar = ""
 
 # # Setting icon of master window
-p1 = PhotoImage(file='imagens/favicon.png')
+p1 = PhotoImage(file='imagens\\favicon.png')
 root.iconphoto(False, p1)
 
 # funcoes
